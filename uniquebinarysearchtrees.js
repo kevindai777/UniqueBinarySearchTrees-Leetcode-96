@@ -1,6 +1,8 @@
 //Objective is to find the number of unique binary search trees with
 //values 1 to n.
 
+n = 5
+
 
 //O(n^2) solution that uses dynamic programming.
 
